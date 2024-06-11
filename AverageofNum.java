@@ -8,7 +8,7 @@ public class AverageofNum
        for ( int number:numbers){
            sum+=number;   
         }
-       avg = sum/(numbers.length);
+       avg = ((double)sum/(double)numbers.length);
        System.out.println("Value of Sum is : "+ sum);
        System.out.println("Value of Average is : "+ avg);
     }
