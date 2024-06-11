@@ -1,5 +1,5 @@
 // java output
-public class Main {
+public class javaOutput {
     public static void main(String[] args) {
         // Printing a message without a newline
         System.out.print("Hello, ");
