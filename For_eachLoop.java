@@ -1,4 +1,4 @@
-public class For-eachLoop
+public class For_eachLoop
 {
   public static void main(String[] args) {
        int [] age = { 1,5,10,14,20};
