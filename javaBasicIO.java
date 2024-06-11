@@ -1,6 +1,6 @@
 // take user input
 import java.util.Scanner;
-class Main{
+class javaBasicIO {
     public static void main (String [] args)
     {
         Scanner Input = new Scanner(System.in);
