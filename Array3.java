@@ -5,7 +5,6 @@ srcPos: The starting position in the source array.
 dest: The destination array.
 destPos: The starting position in the destination array.
 length: The number of array elements to be copied.*/
-
 import java.util.Arrays;
 class Array3 {
     public static void main (String[] args){
