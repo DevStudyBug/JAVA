@@ -1,6 +1,5 @@
 // 4.copying Array using copyOfRange() method
 // Arrays.copyOfRange(sourceArray, int from, int to);
-
 import java.util.Arrays;
 class Array4 {
     public static void main (String[] args){
