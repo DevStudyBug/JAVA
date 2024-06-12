@@ -1,5 +1,5 @@
 // PRINT ALL THE ELEMENT OF 2D ARRAY
-public class Main
+public class 2D_Array
 {
 	public static void main(String[] args) {
 	    int [][] a={
