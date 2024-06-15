@@ -1,3 +1,4 @@
+ //Constructor without argument
 public class Main{
    int i;
    private Main(){
