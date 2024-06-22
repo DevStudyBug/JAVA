@@ -1,0 +1,23 @@
+//JAVA STRING BASIC METHOD , STRING POOL
+public class Main
+{
+	public static void main(String[] args) {
+	    // get length of a String length()
+	    String str = "i love java";
+	    System.out.println("length is " +str.length());
+	    // join two String concat()
+	    String str1 = "Java ";
+	    String str2 = "programing language";
+		System.out.println("Concatination is "+ str1.concat(str2));
+		//compare two string equals()
+		String str3 = "python program ";
+	    String str4 = "python language";
+	    boolean str5 = str3.equals(str4);
+		System.out.println("check Equal: "+str5 );
+	}
+}
+
+// return type 
+// length() => int
+// concat() => str
+// equals() => boolean [true/false]
