@@ -7,7 +7,7 @@ public class Main
 		System.out.println("obj is instanceof class Main "+ result);
 	
 	    String str = "java";
-	    
+	     // boolean result2 = str instanceof String;
 	    	System.out.println(str instanceof String);
 	}
 }
