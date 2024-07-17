@@ -4,7 +4,7 @@ public class Main
  	    int n=10; 
         for (int i =0; i<=n ;i++){
              int sum= fibo(i);
-             System.out.println("fibonacci number is "+sum);
+             System.out.println("fibonacci number is "+sum); // System.out.print(sum + " ");
         }
 	}
          
