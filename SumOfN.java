@@ -1,4 +1,4 @@
-// sum of whole number using input
+// sum of whole number using Java Recursive function
 import java.util.Scanner;
 public class Main
 {
